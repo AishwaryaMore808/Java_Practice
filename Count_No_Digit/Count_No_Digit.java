@@ -5,7 +5,7 @@ public class Count_No_Digit
         int no=12349;
         int count=0;
        
-        while(no!=0)
+        while(no>=1)
         {
           no=no/10;
           count++;
